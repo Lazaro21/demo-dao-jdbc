@@ -27,5 +27,15 @@ public class Program {
 //        for(Seller obj : list) {
 //            System.out.println(obj);
 //        }
+
+        System.out.println("===== TEST 3: seller findAll ======");
+//        List<Seller> listAll = sellerDao.findAll();
+//        listAll.stream().forEach(System.out::println);
+
+//        System.out.println("===== TEST 3: seller insert ======");
+//        Seller newSeller = new Seller(1, "Eddie Vedder", "eddie@vedder.com", new Date(2020, 10,19), 35000.0, department);
+//        sellerDao.insert(newSeller);
+//        List<Seller> listAll = sellerDao.findAll();
+//        listAll.stream().forEach(System.out::println);
     }
 }
